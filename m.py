@@ -53,8 +53,7 @@ else:
             sys.stdout.write(e)
             sys.stdout.flush()
             sleep(0.1)
-import pyfiglet
-logo = pyfiglet.figlet_format("* M A B *")
+
 print (F+ "تيم الرايق فوق ♡")
 print (Z+ "الرايق بيصبح ع الحبايب واحد واحد ")
 print(Z+logo)
